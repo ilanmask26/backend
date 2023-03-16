@@ -12,7 +12,7 @@ public class KDV {
         System.out.print("please enter your product price:");
         price=inp.nextFloat();
 
-        tax= price>1000 ? (price*1.8/100):(price*18/100);
+        tax= price>1000 ? (price*8/100):(price*18/100);
         total=price+tax;
 
         System.out.println("price:"+price);
