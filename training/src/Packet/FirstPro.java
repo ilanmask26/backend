@@ -6,5 +6,6 @@ public class FirstPro {
         int a = b++;
         System.out.print(a);
 
+
     }
 }
