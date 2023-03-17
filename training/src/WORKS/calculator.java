@@ -12,7 +12,7 @@ public class calculator {
         System.out.print("enter the second variable: ");
         x2=inp.nextFloat();
 
-        System.out.print("choose your process\n1)addition:\n2)extraction:\n3)division:\n4)multiplication:");
+        System.out.print("choose your process\n1)addition:\n2)extraction:\n3)division:\n4)multiplication:\n");
         process=inp.nextInt();
 
         switch (process){
