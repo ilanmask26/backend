@@ -24,14 +24,7 @@ public class Div {
             }
             else {
                 System.out.println("please enter a odd number");
-
             }
-
-
-
-
-
         }while (Is);
-
     }
 }
