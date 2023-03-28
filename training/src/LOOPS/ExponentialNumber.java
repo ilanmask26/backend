@@ -12,7 +12,7 @@ public class ExponentialNumber {
         top=in.nextInt();
 
         for (int i=1;i<=top;i++){
-            conc=conc*bot;
+            conc*=bot;
         }
         System.out.println(conc);
     }
